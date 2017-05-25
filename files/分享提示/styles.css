@@ -1,0 +1,292 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:740px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:20px;
+  top:11px;
+  width:528px;
+  height:45px;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-weight:650;
+  font-style:normal;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:528px;
+  height:45px;
+}
+#u1 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:528px;
+  word-wrap:break-word;
+}
+#u3 {
+  position:absolute;
+  left:20px;
+  top:56px;
+  width:640px;
+  height:30px;
+  color:#999999;
+}
+#u3_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:640px;
+  height:30px;
+}
+#u4 {
+  position:absolute;
+  left:2px;
+  top:0px;
+  width:636px;
+  word-wrap:break-word;
+}
+#u5 {
+  position:absolute;
+  left:670px;
+  top:56px;
+  width:30px;
+  height:1136px;
+  color:#CCCCCC;
+}
+#u5_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:30px;
+  height:1136px;
+}
+#u6 {
+  position:absolute;
+  left:2px;
+  top:534px;
+  width:26px;
+  word-wrap:break-word;
+}
+#u7 {
+  position:absolute;
+  left:710px;
+  top:56px;
+  width:30px;
+  height:960px;
+  color:#CCCCCC;
+}
+#u7_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:30px;
+  height:960px;
+}
+#u8 {
+  position:absolute;
+  left:2px;
+  top:446px;
+  width:26px;
+  word-wrap:break-word;
+}
+#u9 {
+  position:absolute;
+  left:20px;
+  top:85px;
+  width:640px;
+  height:90px;
+  font-size:24px;
+}
+#u9_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:640px;
+  height:90px;
+}
+#u10 {
+  position:absolute;
+  left:2px;
+  top:31px;
+  width:636px;
+  word-wrap:break-word;
+}
+#u11 {
+  position:absolute;
+  left:20px;
+  top:174px;
+  width:640px;
+  height:1018px;
+}
+#u11_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:640px;
+  height:1018px;
+}
+#u12 {
+  position:absolute;
+  left:2px;
+  top:501px;
+  width:636px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u13 {
+  position:absolute;
+  left:20px;
+  top:56px;
+  width:640px;
+  height:1136px;
+  opacity:0.699999988079071;
+}
+#u13_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:640px;
+  height:1136px;
+}
+#u14 {
+  position:absolute;
+  left:2px;
+  top:560px;
+  width:636px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u15 {
+  position:absolute;
+  left:263px;
+  top:403px;
+  width:161px;
+  height:45px;
+  color:#FFFFFF;
+}
+#u15_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:161px;
+  height:45px;
+}
+#u16 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:161px;
+  white-space:nowrap;
+}
+#u17 {
+  position:absolute;
+  left:132px;
+  top:465px;
+  width:417px;
+  height:45px;
+  color:#FFFFFF;
+}
+#u17_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:417px;
+  height:45px;
+}
+#u18 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:417px;
+  white-space:nowrap;
+}
+#u19 {
+  position:absolute;
+  left:244px;
+  top:550px;
+  width:80px;
+  height:80px;
+}
+#u19_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  height:80px;
+}
+#u20 {
+  position:absolute;
+  left:2px;
+  top:24px;
+  width:76px;
+  word-wrap:break-word;
+}
+#u21 {
+  position:absolute;
+  left:364px;
+  top:550px;
+  width:80px;
+  height:80px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u21_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  height:80px;
+}
+#u22 {
+  position:absolute;
+  left:2px;
+  top:22px;
+  width:76px;
+  word-wrap:break-word;
+}
+#u23 {
+  position:absolute;
+  left:543px;
+  top:170px;
+  width:10px;
+  height:204px;
+  -webkit-transform:rotate(45deg);
+  -moz-transform:rotate(45deg);
+  -ms-transform:rotate(45deg);
+  transform:rotate(45deg);
+}
+#u23_start {
+  position:absolute;
+  left:-5px;
+  top:0px;
+  width:20px;
+  height:18px;
+}
+#u23_end {
+  position:absolute;
+  left:-5px;
+  top:187px;
+  width:20px;
+  height:18px;
+}
+#u23_line {
+  position:absolute;
+  left:3px;
+  top:0px;
+  width:5px;
+  height:204px;
+}
